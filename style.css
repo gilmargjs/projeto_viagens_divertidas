@@ -248,6 +248,7 @@ header .menu {
     margin-right: 5px;
 }
 
+
 footer {
     background-color: #122A57;
     height: 70px;
@@ -260,7 +261,7 @@ footer {
     justify-content: space-between;
     color: #fff;
 }
-
+ 
 /* Mobile */
 @media(max-width:992px) {
     .flex-container {
